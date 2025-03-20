@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! I'm Lama 👋
 
-<!--
-**LamaSawsen/LamaSawsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎨 I'm passionate about UI/UX Design and love creating user-friendly interfaces.
+- 💻 Currently learning programming to enhance my design skills.
+- 📚 Student at Najran University, eager to explore the world of technology and design.
 
-Here are some ideas to get you started:
+## Skills
+- Design Tools: Figma, Adobe XD, Sketch
+- Programming Languages: HTML, CSS, JavaScript (currently learning)
+- Soft Skills: Creativity, Problem-solving, Collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Fun Facts
+- 🌟 I enjoy exploring new design trends and techniques.
+- 📅 Always looking for opportunities to collaborate on exciting projects!
+
+Feel free to reach out if you want to discuss design, programming, or collaboration opportunities!
